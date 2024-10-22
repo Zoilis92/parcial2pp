@@ -1,0 +1,61 @@
+/* General */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Encabezados */
+  h1, h2 {
+    color: #0056b3;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Navegación */
+  .navbar {
+    margin-bottom: 30px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  /* Créditos */
+  .container h2 {
+    margin-bottom: 15px;
+  }
+  
+  .container p {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Estilos de imágenes */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .img-fluid {
+    margin-top: 20px;
+  }
+  
+  /* Estilo de tablas en caso de que las uses */
+  .table {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .table th, .table td
+  
